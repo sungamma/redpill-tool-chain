@@ -9,19 +9,16 @@
     "help_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb"
   },
   "releases": {
-    // "ds920p_42218": "https://github.com/pocopico/redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
-    // "ds920p_42550": "https://github.com/pocopico/redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
-    // "ds920p_42621": "https://github.com/pocopico/redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
-    // "ds920p_42661": "https://github.com/pocopico/redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
-    "ds920p_42218": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds920p_42550": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds920p_42621": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds920p_42661": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds1621p_42218": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds1621p_42621": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds1621p_42661": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds2422p_42218": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds2422p_42621": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb",
-    "ds2422p_42661": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/model_ds920p.dtb"
+
+    "ds920p_42218": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds920p_42550": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds920p_42621": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds1621p_42218": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds1621p_42621": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds1621p_42661": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds2422p_42218": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds2422p_42621": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json",
+    "ds2422p_42661": "https://raw.githubusercontent.com/sungamma/redpill-tool-chain/master/extensions/universal.json"
   }
 }
