@@ -154,8 +154,8 @@ jobs:
           path: images/redpill-*.img
           if-no-files-found: error
 
-      - name: 删除旧的工作流
-        uses: Mattraks/delete-workflow-runs@v2
-        with:
-          retain_days: 1
-          keep_minimum_runs: 3
+      # - name: 删除旧的工作流
+      #   uses: Mattraks/delete-workflow-runs@v2
+      #   with:
+      #     retain_days: 1
+      #     keep_minimum_runs: 3
